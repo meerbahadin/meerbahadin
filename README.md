@@ -21,7 +21,7 @@
 #### Hi there 👋, Im Meer Full-Stack developer and UI / UX Designer you can find more about me on my portfolio.
  Skills :React.js & Redux, Node.js, Next.js, MongoDB, SQL , Typescript..etc
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=meerbahadin&show_icons=true&title_color=fff&icon_color=38A169&text_color=efefef&bg_color=24292e)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=meerbahadin&show_icons=true&title_color=fff&icon_color=38A169&text_color=efefef&bg_color=1A202C)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meerbahadin)
 
 <!--
