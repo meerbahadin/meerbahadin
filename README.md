@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github-readme-stats.vercel.app/api?username=meerbahadin&show_icons=true
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LexxFade)
 
 <!--
