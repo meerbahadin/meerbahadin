@@ -1,4 +1,4 @@
-###  :man_technologist:  [Meer Bahadin](https://meera.dev/)
+###  :man_technologist:  [Meer Bahadin](https://meeradev.vcercel.app/)
 
 <br/>
 
@@ -19,22 +19,10 @@
 <br/>
 
 #### Hi there 👋, Im Meer Full-Stack developer and UI / UX Designer you can find more about me on my portfolio.
- Skills :React.js & Redux, Node.js, Next.js, MongoDB, SQL , Typescript..etc
+ Skills: React.js & Redux, React Native, Flutter, Node.js, Next.js, MongoDB, SQL , Typescript..etc
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=meerbahadin&show_icons=true&title_color=fff&icon_color=38A169&text_color=efefef&bg_color=1A202C)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meerbahadin)
 
-<!--
-**meerbahadin/meerbahadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Docker and some DevOps
+- 💬 Ask me about React & Web Development
+- 📫 How to reach me: [WhatsApp](https://wa.me/+9647501315441)
+- ⚡ Fun fact: Some stuff coming soon 🔥
