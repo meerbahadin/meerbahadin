@@ -25,4 +25,3 @@
 - 🌱 I’m currently learning some other programming languages 
 - 💬 Ask me about React & Web Development
 - 📫 How to reach me: [WhatsApp](https://wa.me/+9647501315441)
-- ⚡ Fun fact: Some stuff coming soon 🔥
