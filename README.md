@@ -18,8 +18,8 @@
 
 <br/>
 
-#### Hi there 👋, Im Meer Full-Stack developer and UI / UX Designer you can find more about me on my portfolio.
- Skills: React.js & Redux, Flutter,Golang, Node.js, Next.js, MongoDB, SQL , Typescript..etc
+#### Hi there 👋, Im Meer Full-Stack developer you can find more about me on my portfolio.
+ Skills: React.js & Redux, Flutter,Golang, Node.js, Next.js, MongoDB, SQL , Typescript and some DevOps
 
 
 - 🌱 I’m currently learning some other programming languages 
