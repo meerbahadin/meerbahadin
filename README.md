@@ -18,10 +18,10 @@
 
 <br/>
 
-#### Hi there 👋, Im Meer Full-Stack developer you can find more about me on my portfolio.
- Skills: React.js & Redux, Flutter,Golang, Node.js, Next.js, MongoDB, SQL , Typescript and some DevOps
+#### Hi there 👋, I'm a full-stack developer you can find more about me in my portfolio.
+ Skills: React.js & Redux, Flutter, Golang, Node.js, Next.js, MongoDB, SQL, Typescript, and some DevOps
 
 
 - 🌱 I’m currently learning some other programming languages 
 - 💬 Ask me about React & Web Development
-- 📫 How to reach me: [WhatsApp](https://wa.me/+9647501315441)
+- 📫 How to reach me: [WhatsApp](https://wa.me/+9647711262200)
