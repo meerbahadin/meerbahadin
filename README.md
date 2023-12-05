@@ -19,7 +19,7 @@
 <br/>
 
 #### Hi there 👋, I'm a full-stack developer you can find more about me in my portfolio.
- Skills: React.js & Redux, Flutter, Golang, Node.js, Next.js, MongoDB, SQL, Typescript, and some DevOps
+ Skills: React.js & Redux, Golang, Node.js, Next.js, MongoDB, SQL, Typescript, and some DevOps
 
 
 - 🌱 I’m currently learning some other programming languages 
