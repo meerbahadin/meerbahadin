@@ -18,7 +18,7 @@
 
 <br/>
 
-#### Hi there 👋, I'm a full-stack developer you can find more about me in my portfolio.
+#### Hi there 👋, I'm a front-end developer.
  Skills: React.js & Redux, Golang, Node.js, Next.js, MongoDB, SQL, Typescript, and some DevOps
 
 
